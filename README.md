@@ -62,10 +62,32 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mthlima13&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mthlima13&layout=compact&theme=tokyonight" />
-</p>
+<div align="center">
+    <picture>
+      <source
+        srcset="https://github-readme-stats-fast.vercel.app/api?username=mthlima13&show_icons=true&theme=dark&include_all_commits=true"
+        media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-stats-fast.vercel.app/api?username=mthlima13&show_icons=true&include_all_commits=true"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=mthlima13&show_icons=true&include_all_commits=true" />
+      </picture>
+      <br />
+      <picture>
+        <source
+          srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mthlima13&layout=compact&theme=dark&langs_count=8"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mthlima13&layout=compact&langs_count=8"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mthlima13&layout=compact&langs_count=8" />
+      </picture>
+    </div>
+</div>
 
 ---
 
