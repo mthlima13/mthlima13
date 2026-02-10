@@ -1,6 +1,6 @@
 # Hi 👋, I'm Matheus Lima
 
-🚀 **Junior Software Developer | Java & NextJS**  
+🚀 **Junior Software Developer | Java | NodeJS & NextJS**  
 🇧🇷 Brazil
 
 **I am a junior software developer focused on building a solid foundation in software development.**
