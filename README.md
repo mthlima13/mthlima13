@@ -1,6 +1,6 @@
 # Hi 👋, I'm Matheus Lima
 
-🚀 **Junior Software Developer | Java | NodeJS & NextJS**  
+🚀 **Junior Software Developer | Java & Angular**  
 🇧🇷 Brazil
 
 **I am a junior software developer focused on building a solid foundation in software development.**
@@ -10,25 +10,19 @@
 
 ## 🌐 Where to find me
 
-<p align="left">
-  <a href="https://github.com/mthlima13">
-    <img src="https://img.shields.io/badge/GitHub-mthlima13-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://instagram.com/mthlima13">
-    <img src="https://img.shields.io/badge/Instagram-@mthlima13-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-<a href="https://www.linkedin.com/in/matheus-lima-full/">
-  <img src="https://img.shields.io/badge/LinkedIn-Matheus Lima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<div align="left">
+  <a href="https://github.com/mthlima13" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/matheus-lima-full/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-</p>
+  <a href="https://instagram.com/mthlima13" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
 
 ---
 
 ## 🧠 What I do
 
-
--   🎓 Análise e Desenvolvimento de Sistemas
+- 🎓 Análise e Desenvolvimento de Sistemas
 
 ---
 
@@ -37,24 +31,24 @@
 ### Frontend
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![NextJS](https://img.shields.io/badge/NextJS-20232A?style=for-the-badge&logo=nextjs)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
-![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components)
+![TypeScript](https://img.shields.io/badge/TypeScript-1018C6?style=for-the-badge&logo=typescript)
+![NextJs](https://img.shields.io/badge/NextJs-20232A?style=for-the-badge&logo=nextdotjs)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-111DF8?style=for-the-badge&logo=tailwindcss)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white)
 
 ### Backend
 
-![Node.js][def]
-![Java](https://img.shields.io/badge/Java-512BD4?style=for-the-badge&logo=java)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Nest.js](https://img.shields.io/badge/Nest.js-2D3748?style=for-the-badge&logo=prisma)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-2019A1?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1119E1?style=for-the-badge&logo=postgresql)
 
 ### DevOps & Tools
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=it)
+![Docker](https://img.shields.io/badge/Docker-1126ED?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F01032?style=for-the-badge&logo=git)
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia)
 ![Linux](https://img.shields.io/badge/Linux-F24E1E?style=for-the-badge&logo=linux)
 
@@ -98,8 +92,7 @@
 
 ---
 
-⭐ If you like my work, consider starring a repository  
-
+⭐ If you like my work, consider starring a repository
 
 [def]: https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs
 [def2]: ttps://img.shields.io/badge/LinkeIN-O%20REI%20DO%20SITES-FF0000?style=for-the-badge&logo=linkedin&logoColor=whit
